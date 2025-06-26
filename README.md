@@ -1,4 +1,20 @@
 # Result-Analytics-Dashboard
 GUI Representation of Dashboard
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/34662b02b45f96b4c7c5af3d03df84556a930866/Screenshot%202025-06-27%20014201.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/34662b02b45f96b4c7c5af3d03df84556a930866/Screenshot%202025-06-27%20014214.png)
 ![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/412aacd4be40d6032894196822c526cc674b41a6/Screenshot%202025-03-28%20110302.png)
 ![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/412aacd4be40d6032894196822c526cc674b41a6/Screenshot%202025-03-28%20110326.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/412aacd4be40d6032894196822c526cc674b41a6/Screenshot%202025-03-28%20110337.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/bc8daff65cf59d1379a82cf872c4141b6f037a79/Screenshot%202025-06-27%20013301.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/bc8daff65cf59d1379a82cf872c4141b6f037a79/Screenshot%202025-06-27%20013331.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/412aacd4be40d6032894196822c526cc674b41a6/Screenshot%202025-03-28%20110419.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/412aacd4be40d6032894196822c526cc674b41a6/Screenshot%202025-03-28%20110453.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/412aacd4be40d6032894196822c526cc674b41a6/Screenshot%202025-03-28%20110501.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/412aacd4be40d6032894196822c526cc674b41a6/Screenshot%202025-03-28%20110531.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/412aacd4be40d6032894196822c526cc674b41a6/Screenshot%202025-03-28%20110539.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/412aacd4be40d6032894196822c526cc674b41a6/Screenshot%202025-03-28%20110607.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/412aacd4be40d6032894196822c526cc674b41a6/Screenshot%202025-03-28%20110650.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/412aacd4be40d6032894196822c526cc674b41a6/Screenshot%202025-03-28%20110742.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/412aacd4be40d6032894196822c526cc674b41a6/Screenshot%202025-03-28%20112806.png)
+![image alt](https://github.com/itsgauresh/Result-Analytics-Dashboard/blob/412aacd4be40d6032894196822c526cc674b41a6/Screenshot%202025-03-28%20110828.png)
+
