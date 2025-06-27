@@ -3,8 +3,11 @@
 The Result Analytics Dashboard is a full-stack web application designed to transform raw academic data into actionable insights. Developed as a Bachelor of Engineering project, this platform enables educational institutions to:
 
 🔍 Analyze student performance across multiple dimensions
+
 📈 Visualize academic trends using interactive charts and graphs
+
 🎯 Predict future outcomes using machine learning models
+
 👥 Manage user roles and permissions effectively
 
 Key Objectives:
@@ -20,25 +23,19 @@ Students: Personal performance tracking
 
 # 🌟 Key Highlights
 Innovative Features
-✅ Interactive Data Exploration:
 
-Dynamic filters for semester/department/subject analysis
-Drill-down capabilities to individual student level
-Comparative analysis between student cohorts
-✅ Predictive Analytics Engine:
+✅ Interactive Data Exploration: Dynamic filters for semester/department/subject analysis Drill-down capabilities to individual student level Comparative analysis between student cohorts
 
-Early warning system for academic risks
-Performance trend forecasting
-Subject difficulty prediction
-✅ Multi-Tier Security:
+✅ Predictive Analytics Engine: Early warning system for academic risks Performance trend forecasting Subject difficulty prediction
 
-Role-based access control (RBAC)
-End-to-end data encryption
-Audit trails for sensitive operations
-Technology Integration
+✅ Multi-Tier Security: Role-based access control (RBAC) End-to-end data encryption Audit trails for sensitive operations Technology Integration
+
 🖥️ Modern Web Stack: Combines React's flexibility with Node.js scalability
+
 📊 Advanced Visualization: Professional-grade charts using Recharts
+
 🧠 ML-Powered Insights: TensorFlow.js integration for browser-based predictions
+
 🗄️ Scalable Storage: MongoDB Atlas cloud database support
 
 ## 🛠️ Technology Stack
